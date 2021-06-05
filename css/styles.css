@@ -1,6 +1,4 @@
 
-
-
 :root {
   --primary-text-color: rgb(3, 0, 0);
   --title-text-color: rgb(0, 0, 0);
@@ -17,7 +15,7 @@
 }
 /*heder section*/
 .heder{
-  background: #d9f5fd;
+  background: #cbffe9;
 }
 .list {
   list-style: none;
@@ -26,7 +24,7 @@
   color: rgb(101, 111, 131);
 }
 .site-nav,
-.link {
+.btn  {
   display: flex;
   margin-left: 5px;
   color: rgb(64, 113, 218);
@@ -38,13 +36,8 @@
   text-align: center;
 }
 /* site nav */
-.site-nav {
-  color: rgb(106, 112, 112);
-}
-.section {
-  display: flex;
-  color: rgb(73, 72, 77);
-}
+
+
 .section-titl {
   color: rgb(0, 0, 0);
 }
@@ -52,10 +45,7 @@
   color: var(--primary-text-color);
 }
 /*button*/
-.button {
-  background-color: rgb(12, 255, 4);
-  color: rgb(255, 21, 13);
-}
+
 
 .botton,
 .primary {
@@ -69,17 +59,13 @@
   color: var(--primary-white-color);
 }
 /*main section*/
- .main {
-  background: #f5f4fa;
+.main {
+  background: #c6dfff;
 }
 /*footer section*/
 .footer
 {
-  background: #d9f5fd;
+  background: #cbffe9;
   text-align: center;
 }
 
-.text-footer{
-  list-style-type: none;
-  text-align: center;
-}
